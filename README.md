@@ -70,7 +70,7 @@ DOCMANAGER/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/DOCMANAGER.git
+git clone https://github.com/HARSHIL-SUTARIYA09/DOCMANAGER.git
 cd DOCMANAGER
 ```
 
